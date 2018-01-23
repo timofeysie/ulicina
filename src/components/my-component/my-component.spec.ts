@@ -16,6 +16,7 @@ describe('my-component', () => {
     });
 
     it('should work without parameters', () => {
+      console.log('element.textContent',element);
       expect(element.textContent.trim()).toEqual('Hello, World! I\'m');
     });
 
