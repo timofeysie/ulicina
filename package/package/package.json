@@ -18,7 +18,7 @@
     "stencil": "./bin/stencil"
   },
   "dependencies": {
-    "node-sass": "4.5.3",
+    "node-sass": "4.14.1",
     "typescript": "2.5.3"
   },
   "repository": {
